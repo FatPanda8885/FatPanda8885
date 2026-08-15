@@ -20,7 +20,7 @@
 - 🛰️ 业余无线电爱好者
 - 🔧 是一个一个学生，主攻嵌入式方向
 - 📝 在 [12am.moe](https://12am.moe/) 写写技术笔记和生活杂记
-- 🌐 世界很大，值得去看看 —— `The world is big, you have to go and see`[reference:1]
+- 🌐 世界很大，值得去看看 —— `The world is big, you have to go and see`
 - ❀ 大爱百合，百合赛高！
 
 ---
@@ -41,11 +41,11 @@
 
 ### 📡 近期文章
 
-- **[将静态博客迁移至Microsoft Azure托管](https://12am.moe/posts/azure-migration/)** — Azure 的时延比 Cloudflare 还低~[reference:2]
-- **[浙江自制电台设备验机不完全指南](https://12am.moe/posts/radio-verify/)** — BOX-6 上执照啦！[reference:3]
-- **[Re：从零开始的基于ESP32开发步进云台解码版](https://12am.moe/posts/esp32-stepper/)** — ESP 学习笔记之一[reference:4]
-- **[我的SDR迭代之路](https://12am.moe/posts/sdr-journey/)** — 从电视棒到 PlutoSDR[reference:5]
-- **[IC-910H维修记](https://12am.moe/posts/ic-910h-repair/)** — 曲折漫长的维修道路[reference:6]
+- **[保姆级部署本地番剧资源库教程]([https://12am.moe/posts/azure-migration/](https://12am.moe/posts/theguideofautobangumi/))** — 基于AutoBangumi+JellyFin+Animeko+BT下载的本地番剧资源库部署教程
+- **[将静态博客迁移至Microsoft Azure托管](https://12am.moe/posts/azure-migration/)** — Azure 的时延比 Cloudflare 还低~
+- **[Re：从零开始的基于ESP32开发步进云台解码版](https://12am.moe/posts/esp32-stepper/)** — ESP 学习笔记之一
+- **[我的SDR迭代之路](https://12am.moe/posts/sdr-journey/)** — 从电视棒到 PlutoSDR
+- **[IC-910H维修记](https://12am.moe/posts/ic-910h-repair/)** — 曲折漫长的维修道路
 
 ---
 
@@ -73,5 +73,5 @@
 
 <p align="center">
   <i>“特別なことはないけど、君がいると十分で”</i><br>
-  <i>—— 没有什么特别的，但有你在就足够了</i>[reference:7]
+  <i>—— 没有什么特别的，但有你在就足够了</i>
 </p>
