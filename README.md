@@ -41,7 +41,7 @@
 
 ### 📡 近期文章
 
-- **[保姆级部署本地番剧资源库教程]([https://12am.moe/posts/azure-migration/](https://12am.moe/posts/theguideofautobangumi/))** — 基于AutoBangumi+JellyFin+Animeko+BT下载的本地番剧资源库部署教程
+- **[保姆级部署本地番剧资源库教程]([https://12am.moe/posts/azure-migration/](https://12am.moe/posts/theguideofautobangumi/)** — 基于AutoBangumi+JellyFin+Animeko+BT下载的本地番剧资源库部署教程
 - **[将静态博客迁移至Microsoft Azure托管](https://12am.moe/posts/azure-migration/)** — Azure 的时延比 Cloudflare 还低~
 - **[Re：从零开始的基于ESP32开发步进云台解码版](https://12am.moe/posts/esp32-stepper/)** — ESP 学习笔记之一
 - **[我的SDR迭代之路](https://12am.moe/posts/sdr-journey/)** — 从电视棒到 PlutoSDR
