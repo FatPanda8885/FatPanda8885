@@ -4,7 +4,7 @@
 </p>
 
 <!-- 欢迎横幅 -->
-<h1 align="center">Hi, I'm FatPanda 🐼</h1>
+<h1 align="center">Hi, I'm FatPanda </h1>
 <h3 align="center">全栈工程师 · 嵌入式工程师 · 射频工程师 · 网络安全工程师 · 算法爱好者</h3>
 
 <p align="center">
@@ -20,7 +20,6 @@
 - 🛰️ 业余无线电爱好者
 - 🔧 是一个一个学生，主攻嵌入式方向
 - 📝 在 [12am.moe](https://12am.moe/) 写写技术笔记和生活杂记
-- 🌐 世界很大，值得去看看 —— `The world is big, you have to go and see`
 - ❀ 大爱百合，百合赛高！
 
 ---
